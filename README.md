@@ -1,4 +1,6 @@
 # easyboto
+
+[![Join the chat at https://gitter.im/shantanuo/easyboto](https://badges.gitter.im/shantanuo/easyboto.svg)](https://gitter.im/shantanuo/easyboto?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Managing AWS using boto made easy
 
 Save the file easyboto.py in the same directory from where you are running python. Or the import statement will fail.
